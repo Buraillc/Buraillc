@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Buraillc
 - 👀 I’m interested in digital health and blockchain
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on medical professionals 
+- 🌱 I’m currently learning dlt
+- 💞️ I’m looking to collaborate on projects related digital health with medical professionals 
 - 📫 How to reach me :admin@burai.live
 
 <!---
