@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Buraillc
+- 👋 whats up, I’m @Buraillc
 - 👀 I’m interested in digital health and supply chain powered by blockchain. 
 - 🌱 I’m currently learning and trying to be familiarizing with dlt and cancer survivorship care plan 
 - 💞️ I’m looking to collaborate on projects related digital health with medical professionals(Oncologists and etc.. ) 
